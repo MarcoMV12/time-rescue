@@ -1,0 +1,14 @@
+# Archivos compilados de Java
+bin/
+*.class
+
+# Archivos de guardado / progreso del jugador (no parte del codigo fuente)
+scores.txt
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos temporales de editores
+*.swp
+*.swp~
