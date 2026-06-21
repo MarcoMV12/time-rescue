@@ -1,10 +1,10 @@
 # Time Rescue
 
-Juego de plataformas 2D hecho en Java, con sprites, animaciones y música propios. El jugador viaja por distintas épocas (prehistoria, Egipto, época medieval y un nivel futurista) resolviendo retos de cada nivel para avanzar usando una máquina del tiempo.
+Juego de plataformas 2D hecho en Java, con sprites, animaciones y música acordes. El jugador viaja por distintas épocas (prehistoria, Egipto, época medieval y un nivel futurista) resolviendo retos de cada nivel para avanzar usando una máquina del tiempo.
 
 ## Capturas
 
-*(Agrega aquí 2-3 capturas de pantalla del juego, por ejemplo `res/uis/TituloGame.jpg` y alguna del gameplay)*
+
 
 ## Tecnologías
 
@@ -76,4 +76,4 @@ Proyecto escolar en desarrollo. Si quieres contribuir, los pull requests son bie
 
 ## Créditos
 
-Desarrollado por Marco como proyecto escolar.
+Desarrollado  como proyecto escolar.
